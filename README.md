@@ -1,6 +1,6 @@
 # CryptoHalal-Datasets
 
-This dataset has been created for research purposes. It contains 100 classified cryptocurrencies as 50 Halal and 50 Haram cryptocurrencies. 
+This dataset has been created for research purposes. It contains 106 classified cryptocurrencies as 56 Halal and 50 Haram cryptocurrencies. 
 The dataset contains 20 hand-crafted features derived from cryptocurrency ruling cards published be CRYPTOHALAL Telegram channel.
 
 In this repository, there exists three excel workbooks and csv formatted files, which contains the training set, testing set, and full dataset.
