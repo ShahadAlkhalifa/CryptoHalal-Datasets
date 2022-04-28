@@ -28,7 +28,8 @@ This table presents the features used for classification with their explanations
 | Margin | Cryptocurrency project designed for margin trading     | 
 | Yield_farming | Cryptocurrency provides yield farming services with passive income      | 
 | Governance | Cryptocurrency offers governance of the protocol for the future of the cryptocurrency     | 
-| Financial_Project | Cryptocurrency project is financial      | 
-| Technical_Project | Cryptocurrency project is technical     | 
-| Service_Project | Cryptocurrency project is service-based     | 
+| Financial_Project | Cryptocurrency project is pure financial without additional project services  | 
+| Technical_Project | Cryptocurrency project is technical that offers on-chain Decentralized App services and software development tools
+     | 
+| Service_Project | Cryptocurrency project is based on services such as betting and media   | 
 
